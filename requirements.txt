@@ -1,0 +1,3 @@
+﻿streamlit
+opencv-python
+nltk
